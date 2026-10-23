@@ -1,0 +1,601 @@
+review_id,sentence,coded,round
+R003657,The dining room was spotless.,atmos,1
+R003958,A lackluster outing.,satisfaction,1
+R005782,Likely to drop by again.,revisit,1
+R002890,Service was painfully slow.,service,1
+R007181,The salmon was bland and forgettable.,food,1
+R003339,The dining room was spotless.,atmos,1
+R000190,A forgettable and dreary occasion.,satisfaction,1
+R001920,Overpriced for what you get.,none,1
+R003907,Knowledgeable and helpful waiter.,service,1
+R006443,No one checked on us all night.,service,1
+R001716,Dirty floors and dusty surfaces.,atmos,1
+R001676,Utterly wretched from start to finish.,satisfaction,1
+R009364,Enthusiastically recommended it to everyone.,none,1
+R005480,A pleasing meal out.,satisfaction,1
+R007386,Told friends to skip this one.,none,1
+R008624,Hesitant about a second visit.,revisit,1
+R005162,"Tiny, stingy portions.",food,1
+R002731,"A generally unclean, neglected space.",atmos,1
+R005408,Thoroughly regretted coming here.,satisfaction,1
+R005689,Affordable given the generous portions.,none,1
+R006565,Greasy and flavorless cooking.,food,1
+R000540,A miserable ordeal.,satisfaction,1
+R004902,Greasy and flavorless cooking.,food,1
+R004475,"Careless, indifferent service.",service,1
+R007385,Our server was warm and friendly.,service,1
+R006726,Definitely coming back next month.,revisit,1
+R010675,The manager was dismissive of our complaint.,service,1
+R010304,Neither impressed nor bothered.,satisfaction,1
+R002454,Greasy and flavorless cooking.,food,1
+R005671,Grabbed lunch here.,none,1
+R010971,The staff went above and beyond.,service,1
+R010247,Everything tidy and well kept.,atmos,1
+R000380,Drinks came out promptly.,service,1
+R005302,Generous and satisfying portions.,food,1
+R001985,A forgettable and dreary occasion.,satisfaction,1
+R002422,The manager personally checked on us.,service,1
+R010527,A creative and tempting menu.,food,1
+R007557,Drinks came out promptly.,service,1
+R000224,Affordable given the generous portions.,none,1
+R009563,"A limited, uninspired menu.",food,1
+R002000,A disappointing meal.,satisfaction,1
+R007190,The table was sticky and grimy.,atmos,1
+R007295,Came here with friends.,none,1
+R003013,Generous and satisfying portions.,food,1
+R002909,Stopped in for dinner.,none,1
+R002007,Spotlessly clean tables and floors.,atmos,1
+R000720,The table was sticky and grimy.,atmos,1
+R005354,Gracious hospitality all evening.,service,1
+R006260,Wonderful value for the money.,none,1
+R006824,The burger was delicious.,food,1
+R003776,The latte was delicious.,food,1
+R007071,Visited last week.,none,1
+R004658,Mentioned it to my coworkers.,none,1
+R006070,A superb treat.,satisfaction,1
+R001407,Neither impressed nor bothered.,satisfaction,1
+R000955,A forgettable and dreary occasion.,satisfaction,1
+R002366,A lackluster outing.,satisfaction,1
+R005168,A forgettable and dreary occasion.,satisfaction,1
+R006222,A marvellous and memorable highlight.,satisfaction,1
+R005449,Visited last week.,none,1
+R010986,Visited last week.,none,1
+R001548,The latte was cooked to perfection.,food,1
+R008956,Stopped in for dinner.,none,1
+R006361,My dish came out cold.,food,1
+R004190,Steep prices for small portions.,none,1
+R000239,A disappointing meal.,satisfaction,1
+R001295,Urging everyone I know to try it.,none,1
+R008972,An endless wait for the check.,service,1
+R007857,No one checked on us all night.,service,1
+R006835,The burger was cooked to perfection.,food,1
+R008144,Knowledgeable and helpful waiter.,service,1
+R000169,A disappointing meal.,satisfaction,1
+R002688,Planning another visit soon.,revisit,1
+R007095,The latte arrived overcooked and dry.,food,1
+R004362,"A generally unclean, neglected space.",atmos,1
+R003277,Overpriced for what you get.,none,1
+R002246,"Attentive, welcoming staff.",service,1
+R010715,An awful waste of money.,satisfaction,1
+R010084,An unremarkable but tolerable break.,satisfaction,1
+R005991,The table was sticky and grimy.,atmos,1
+R003694,Utterly delighted.,satisfaction,1
+R008295,Spotlessly clean tables and floors.,atmos,1
+R000582,Well worth every dollar.,none,1
+R007648,Far too expensive for the quality.,none,1
+R006965,A wonderful celebration.,satisfaction,1
+R004026,Stopped in for dinner.,none,1
+R008685,Service was painfully slow.,service,1
+R007779,Drinks came out promptly.,service,1
+R010986,A miserable ordeal.,satisfaction,1
+R007402,A creative and tempting menu.,food,1
+R007441,Our server was warm and friendly.,service,1
+R010002,Grabbed lunch here.,none,1
+R005602,The pasta arrived overcooked and dry.,food,1
+R006351,Tried this place for the first time.,none,1
+R003834,We were seated right away.,service,1
+R004893,Met family here for a celebration.,none,1
+R001338,An adequate stop.,satisfaction,1
+R006031,Everything tidy and well kept.,atmos,1
+R005008,The staff went above and beyond.,service,1
+R002085,Likely to drop by again.,revisit,1
+R005493,Quietly satisfied.,satisfaction,1
+R004672,Everything tidy and well kept.,atmos,1
+R004607,Came here with friends.,none,1
+R010771,A superb treat.,satisfaction,1
+R001884,The manager personally checked on us.,service,1
+R010905,Urging everyone I know to try it.,none,1
+R002533,An adequate stop.,satisfaction,1
+R005766,Dirty floors and dusty surfaces.,atmos,1
+R003628,A creative and tempting menu.,food,1
+R010399,Affordable given the generous portions.,none,1
+R010708,Visited last week.,none,1
+R010965,"Immaculate, fresh restrooms.",atmos,1
+R009836,A disappointing meal.,satisfaction,1
+R003399,Met family here for a celebration.,none,1
+R009402,The dining room was spotless.,atmos,1
+R007876,It took forty five minutes for our food.,service,1
+R010571,Simply not worth the price.,none,1
+R002490,A miserable ordeal.,satisfaction,1
+R008833,"A generally unclean, neglected space.",atmos,1
+R003808,"Very reasonable, fair prices.",none,1
+R010328,The brisket was the best in town.,food,1
+R003191,The table was sticky and grimy.,atmos,1
+R004351,Everything tidy and well kept.,atmos,1
+R010056,Suggested it to a friend.,none,1
+R000552,The table was sticky and grimy.,atmos,1
+R001496,Grabbed lunch here.,none,1
+R005591,"A generally unclean, neglected space.",atmos,1
+R006834,Well worth every dollar.,none,1
+R003941,Likely to drop by again.,revisit,1
+R000210,The manager was dismissive of our complaint.,service,1
+R004077,The latte was the best in town.,food,1
+R002556,Drinks came out promptly.,service,1
+R006191,"Fresh, high quality ingredients.",food,1
+R009262,Utterly delighted.,satisfaction,1
+R008362,The brisket was cooked to perfection.,food,1
+R009204,Been here a few times now.,none,1
+R007219,Drinks came out promptly.,service,1
+R001770,Thoroughly regretted coming here.,satisfaction,1
+R005209,A miserable ordeal.,satisfaction,1
+R000928,The pizza was the best in town.,food,1
+R006836,Neither impressed nor bothered.,satisfaction,1
+R006318,The dining room was spotless.,atmos,1
+R000101,Long line despite our reservation.,service,1
+R000165,The pad thai was the best in town.,food,1
+R001058,A gratifying and comfortable occasion.,satisfaction,1
+R009746,A disappointing meal.,satisfaction,1
+R003876,Thoroughly regretted coming here.,satisfaction,1
+R003498,A creative and tempting menu.,food,1
+R005441,A wonderful celebration.,satisfaction,1
+R004845,The manager was dismissive of our complaint.,service,1
+R009290,A rewarding evening.,satisfaction,1
+R002780,A forgettable and dreary occasion.,satisfaction,1
+R004222,No one checked on us all night.,service,1
+R005853,"Attentive, welcoming staff.",service,1
+R001383,A creative and tempting menu.,food,1
+R010842,Service was painfully slow.,service,1
+R004553,The pizza tasted stale and reheated.,food,1
+R005932,A miserable ordeal.,satisfaction,1
+R000777,The salmon arrived overcooked and dry.,food,1
+R004461,Came here with friends.,none,1
+R006940,The restroom was filthy.,atmos,1
+R001704,"Very reasonable, fair prices.",none,1
+R010288,Painfully inattentive waiter.,service,1
+R010572,Steep prices for small portions.,none,1
+R004650,Stopped in for dinner.,none,1
+R007219,An awful waste of money.,satisfaction,1
+R003886,Stopped in for dinner.,none,1
+R003055,Long line despite our reservation.,service,1
+R008424,Told friends to skip this one.,none,1
+R004087,"Fresh, high quality ingredients.",food,1
+R003240,Thoroughly regretted coming here.,satisfaction,1
+R010418,Dirty floors and dusty surfaces.,atmos,1
+R006745,Hesitant about a second visit.,revisit,1
+R007394,No wait at all on a busy night.,service,1
+R005838,Urging everyone I know to try it.,none,1
+R009235,A rewarding evening.,satisfaction,1
+R008358,Stopped in for dinner.,none,1
+R000977,Simply not worth the price.,none,1
+R008823,Never returning to this place.,revisit,1
+R008703,Greasy and flavorless cooking.,food,1
+R008390,"A generally unclean, neglected space.",atmos,1
+R007044,Never returning to this place.,revisit,1
+R004101,Grabbed lunch here.,none,1
+R003768,The manager personally checked on us.,service,1
+R005706,The dining room was spotless.,atmos,1
+R010428,Well worth every dollar.,none,1
+R010315,The dining room was spotless.,atmos,1
+R001021,"Tiny, stingy portions.",food,1
+R001614,Wonderful value for the money.,none,1
+R008206,A passable middle ground.,satisfaction,1
+R008119,Certain to return very soon.,revisit,1
+R004692,Urging everyone I know to try it.,none,1
+R007081,Stopped in for dinner.,none,1
+R000214,Quietly satisfied.,satisfaction,1
+R004999,Visited last week.,none,1
+R001014,The manager was dismissive of our complaint.,service,1
+R005081,Far too expensive for the quality.,none,1
+R005756,Tried this place for the first time.,none,1
+R010083,The table was sticky and grimy.,atmos,1
+R004009,Fast and efficient table turnover.,service,1
+R000344,Fast and efficient table turnover.,service,1
+R009861,Never returning to this place.,revisit,1
+R006592,"Careless, indifferent service.",service,1
+R006426,Simply not worth the price.,none,1
+R004065,No wait at all on a busy night.,service,1
+R000851,The manager was dismissive of our complaint.,service,1
+R000090,A rewarding evening.,satisfaction,1
+R002910,Been here a few times now.,none,1
+R003946,No one checked on us all night.,service,1
+R002025,Likely to drop by again.,revisit,1
+R009632,The table was sticky and grimy.,atmos,1
+R003461,A disappointing meal.,satisfaction,1
+R003447,Grabbed lunch here.,none,1
+R005290,No wait at all on a busy night.,service,1
+R001759,No one checked on us all night.,service,1
+R002209,Utterly wretched from start to finish.,satisfaction,1
+R004672,Affordable given the generous portions.,none,1
+R005901,Drinks came out promptly.,service,1
+R010817,A wonderful celebration.,satisfaction,1
+R008540,We waited forever just to be seated.,service,1
+R000024,Everything tidy and well kept.,atmos,1
+R004027,Spotlessly clean tables and floors.,atmos,1
+R003838,A gratifying and comfortable occasion.,satisfaction,1
+R006069,Enthusiastically recommended it to everyone.,none,1
+R006559,The staff ignored our table.,service,1
+R001560,Doubt I would visit here.,revisit,1
+R003561,Painfully inattentive waiter.,service,1
+R001357,"A generally unclean, neglected space.",atmos,1
+R009487,A forgettable and dreary occasion.,satisfaction,1
+R005200,Wonderful value for the money.,none,1
+R006567,Simply not worth the price.,none,1
+R009456,A lackluster outing.,satisfaction,1
+R008849,Fast and efficient table turnover.,service,1
+R002134,Generous and satisfying portions.,food,1
+R004865,The restroom was filthy.,atmos,1
+R008862,Never returning to this place.,revisit,1
+R010877,Our food arrived quickly.,service,1
+R004845,Never returning to this place.,revisit,1
+R005747,Well worth every dollar.,none,1
+R009491,Stopped in for dinner.,none,1
+R005288,A passable middle ground.,satisfaction,1
+R008102,A wonderful celebration.,satisfaction,1
+R000698,"A limited, uninspired menu.",food,1
+R000218,Spotlessly clean tables and floors.,atmos,1
+R005681,Well worth every dollar.,none,1
+R008231,Stopped in for dinner.,none,1
+R000046,Gracious hospitality all evening.,service,1
+R004971,A gratifying and comfortable occasion.,satisfaction,1
+R006394,Drinks came out promptly.,service,1
+R010878,An adequate stop.,satisfaction,1
+R010881,A pleasing meal out.,satisfaction,1
+R002195,The restroom was filthy.,atmos,1
+R001673,Never returning to this place.,revisit,1
+R005883,"Attentive, welcoming staff.",service,1
+R009222,"Very reasonable, fair prices.",none,1
+R005811,The burger was bland and forgettable.,food,1
+R004444,Doubt I would visit here.,revisit,1
+R002424,A passable middle ground.,satisfaction,1
+R002898,"Fresh, high quality ingredients.",food,1
+R008163,A forgettable and dreary occasion.,satisfaction,1
+R001186,Advised colleagues against it.,none,1
+R008356,Neither impressed nor bothered.,satisfaction,1
+R006241,"Very reasonable, fair prices.",none,1
+R006892,"A generally unclean, neglected space.",atmos,1
+R009938,Somewhat let down.,satisfaction,1
+R009858,It took forty five minutes for our food.,service,1
+R009225,Mentioned it to my coworkers.,none,1
+R010541,"A generally unclean, neglected space.",atmos,1
+R008384,"A limited, uninspired menu.",food,1
+R005399,The table was sticky and grimy.,atmos,1
+R001007,It took forty five minutes for our food.,service,1
+R001421,Our food arrived quickly.,service,1
+R008441,Been here a few times now.,none,1
+R009697,Somewhat let down.,satisfaction,1
+R002977,"Immaculate, fresh restrooms.",atmos,1
+R002603,Long line despite our reservation.,service,1
+R007178,Wonderful value for the money.,none,1
+R002408,"Tiny, stingy portions.",food,1
+R004342,No one checked on us all night.,service,1
+R007640,The staff went above and beyond.,service,1
+R009387,The table was sticky and grimy.,atmos,1
+R005341,The dining room was spotless.,atmos,1
+R002051,Our server was rude and short.,service,1
+R005606,Incredible flavor in every bite.,food,1
+R000919,My dish came out cold.,food,1
+R010024,Grabbed lunch here.,none,1
+R004027,Greasy and flavorless cooking.,food,1
+R001096,"Tiny, stingy portions.",food,1
+R009576,Each dish bursting with flavor.,food,1
+R005313,No wait at all on a busy night.,service,1
+R006840,Definitely coming back next month.,revisit,1
+R004379,Affordable given the generous portions.,none,1
+R007503,Tried this place for the first time.,none,1
+R008923,The burger arrived overcooked and dry.,food,1
+R001812,The pizza was the best in town.,food,1
+R005085,Actively steering people elsewhere.,none,1
+R006886,Somewhat let down.,satisfaction,1
+R009964,A lackluster outing.,satisfaction,1
+R008827,The staff ignored our table.,service,1
+R004550,Wonderful value for the money.,none,1
+R007621,Likely to drop by again.,revisit,2
+R007123,The dining room was spotless.,atmos,2
+R007771,A rewarding evening.,satisfaction,2
+R009676,The burger arrived overcooked and dry.,food,2
+R003121,The burger was cooked to perfection.,food,2
+R008963,Dirty floors and dusty surfaces.,atmos,2
+R000067,An adequate stop.,satisfaction,2
+R004306,A miserable ordeal.,satisfaction,2
+R010464,Steep prices for small portions.,none,2
+R010285,Hesitant about a second visit.,revisit,2
+R010147,Somewhat let down.,satisfaction,2
+R001181,Told friends to skip this one.,none,2
+R000935,No one checked on us all night.,service,2
+R002354,Met family here for a celebration.,none,2
+R005881,The salmon was cooked to perfection.,food,2
+R006639,The salmon was delicious.,food,2
+R000142,Suggested it to a friend.,none,2
+R003157,The manager was dismissive of our complaint.,service,2
+R003961,An unremarkable but tolerable break.,satisfaction,2
+R008495,The brisket arrived overcooked and dry.,food,2
+R009754,"Tiny, stingy portions.",food,2
+R005685,Spotlessly clean tables and floors.,atmos,2
+R004642,Greasy and flavorless cooking.,food,2
+R001766,Tried this place for the first time.,none,2
+R004530,Far too expensive for the quality.,none,2
+R001598,An unremarkable but tolerable break.,satisfaction,2
+R004118,Told friends to skip this one.,none,2
+R008588,Wonderful value for the money.,none,2
+R008963,Long line despite our reservation.,service,2
+R008513,"Tiny, stingy portions.",food,2
+R006132,A forgettable and dreary occasion.,satisfaction,2
+R004041,It took forty five minutes for our food.,service,2
+R005255,Our server was rude and short.,service,2
+R003264,Dirty floors and dusty surfaces.,atmos,2
+R006315,A gratifying and comfortable occasion.,satisfaction,2
+R006395,A pleasing meal out.,satisfaction,2
+R009328,"Attentive, welcoming staff.",service,2
+R001833,Knowledgeable and helpful waiter.,service,2
+R001876,A superb treat.,satisfaction,2
+R006542,Each dish bursting with flavor.,food,2
+R008074,Well worth every dollar.,none,2
+R002476,Simply not worth the price.,none,2
+R002662,Definitely coming back next month.,revisit,2
+R010834,"A limited, uninspired menu.",food,2
+R003493,Affordable given the generous portions.,none,2
+R000277,Gracious hospitality all evening.,service,2
+R009118,Somewhat let down.,satisfaction,2
+R010275,Drinks came out promptly.,service,2
+R009442,The tacos tasted stale and reheated.,food,2
+R010222,Dirty floors and dusty surfaces.,atmos,2
+R010092,The table was sticky and grimy.,atmos,2
+R005954,A forgettable and dreary occasion.,satisfaction,2
+R007942,We were seated right away.,service,2
+R002952,A lackluster outing.,satisfaction,2
+R004725,An awful waste of money.,satisfaction,2
+R007005,Incredible flavor in every bite.,food,2
+R003480,Certain to return very soon.,revisit,2
+R003322,Likely to drop by again.,revisit,2
+R000357,Enthusiastically recommended it to everyone.,none,2
+R005706,The staff went above and beyond.,service,2
+R002835,Greasy and flavorless cooking.,food,2
+R001468,Our server was rude and short.,service,2
+R010173,Doubt I would visit here.,revisit,2
+R006577,A disappointing meal.,satisfaction,2
+R005852,No one checked on us all night.,service,2
+R001535,The latte was bland and forgettable.,food,2
+R000098,Dirty floors and dusty surfaces.,atmos,2
+R009914,"A limited, uninspired menu.",food,2
+R006481,Doubt I would visit here.,revisit,2
+R004136,"Immaculate, fresh restrooms.",atmos,2
+R001290,Generous and satisfying portions.,food,2
+R003944,A marvellous and memorable highlight.,satisfaction,2
+R010557,Thoroughly regretted coming here.,satisfaction,2
+R007978,"Very reasonable, fair prices.",none,2
+R006318,Planning another visit soon.,revisit,2
+R010044,An unremarkable but tolerable break.,satisfaction,2
+R002256,The manager was dismissive of our complaint.,service,2
+R010979,The manager personally checked on us.,service,2
+R003205,Spotlessly clean tables and floors.,atmos,2
+R001514,A wonderful celebration.,satisfaction,2
+R009820,A miserable ordeal.,satisfaction,2
+R008557,The manager personally checked on us.,service,2
+R004057,Suggested it to a friend.,none,2
+R003672,A creative and tempting menu.,food,2
+R000490,Spotlessly clean tables and floors.,atmos,2
+R009135,A marvellous and memorable highlight.,satisfaction,2
+R009579,Gracious hospitality all evening.,service,2
+R009225,Spotlessly clean tables and floors.,atmos,2
+R008386,Definitely coming back next month.,revisit,2
+R000069,Utterly delighted.,satisfaction,2
+R000283,An unremarkable but tolerable break.,satisfaction,2
+R005580,The table was sticky and grimy.,atmos,2
+R006445,Spotlessly clean tables and floors.,atmos,2
+R006291,Advised colleagues against it.,none,2
+R002084,Wonderful value for the money.,none,2
+R002324,Been here a few times now.,none,2
+R008619,Incredible flavor in every bite.,food,2
+R008484,Knowledgeable and helpful waiter.,service,2
+R003473,The dining room was spotless.,atmos,2
+R000446,A gratifying and comfortable occasion.,satisfaction,2
+R008331,No wait at all on a busy night.,service,2
+R007586,Planning another visit soon.,revisit,2
+R005357,Certain to return very soon.,revisit,2
+R007657,Gracious hospitality all evening.,service,2
+R004494,The manager personally checked on us.,service,2
+R005029,It took forty five minutes for our food.,service,2
+R007492,The dining room was spotless.,atmos,2
+R009372,No one checked on us all night.,service,2
+R007287,The dining room was spotless.,atmos,2
+R002631,Our server was rude and short.,service,2
+R006952,Overpriced for what you get.,none,2
+R003691,Definitely coming back next month.,revisit,2
+R004130,An endless wait for the check.,service,2
+R008449,Incredible flavor in every bite.,food,2
+R000264,A lackluster outing.,satisfaction,2
+R007942,A rewarding evening.,satisfaction,2
+R001479,Far too expensive for the quality.,none,2
+R003316,Our food arrived quickly.,service,2
+R008530,The dining room was spotless.,atmos,2
+R003650,Met family here for a celebration.,none,2
+R006941,We waited forever just to be seated.,service,2
+R001651,We waited forever just to be seated.,service,2
+R010824,Likely to drop by again.,revisit,2
+R005384,A lackluster outing.,satisfaction,2
+R010356,Came here with friends.,none,2
+R004613,A rewarding evening.,satisfaction,2
+R005332,An endless wait for the check.,service,2
+R002808,Far too expensive for the quality.,none,2
+R002090,Been here a few times now.,none,2
+R008491,Met family here for a celebration.,none,2
+R002800,It took forty five minutes for our food.,service,2
+R008542,Dirty floors and dusty surfaces.,atmos,2
+R001617,Far too expensive for the quality.,none,2
+R008836,The restroom was filthy.,atmos,2
+R004616,"Immaculate, fresh restrooms.",atmos,2
+R001903,Our food arrived quickly.,service,2
+R006752,A lackluster outing.,satisfaction,2
+R009380,Wonderful value for the money.,none,2
+R010198,Service was painfully slow.,service,2
+R005299,"A generally unclean, neglected space.",atmos,2
+R005726,"Tiny, stingy portions.",food,2
+R005888,Painfully inattentive waiter.,service,2
+R003591,Affordable given the generous portions.,none,2
+R008386,The staff ignored our table.,service,2
+R005668,An unremarkable but tolerable break.,satisfaction,2
+R010597,The table was sticky and grimy.,atmos,2
+R007333,A marvellous and memorable highlight.,satisfaction,2
+R000837,Tried this place for the first time.,none,2
+R002081,"Attentive, welcoming staff.",service,2
+R001227,Painfully inattentive waiter.,service,2
+R010070,Our server was rude and short.,service,2
+R004239,Stopped in for dinner.,none,2
+R007314,The table was sticky and grimy.,atmos,2
+R007398,A wonderful celebration.,satisfaction,2
+R007037,Utterly delighted.,satisfaction,2
+R005911,The dining room was spotless.,atmos,2
+R009082,A wonderful celebration.,satisfaction,2
+R002314,Definitely coming back next month.,revisit,2
+R002667,A wonderful celebration.,satisfaction,2
+R002979,Knowledgeable and helpful waiter.,service,2
+R010902,"A limited, uninspired menu.",food,2
+R007981,A superb treat.,satisfaction,2
+R007412,"A limited, uninspired menu.",food,2
+R002802,A disappointing meal.,satisfaction,2
+R002088,An unremarkable but tolerable break.,satisfaction,2
+R004312,Doubt I would visit here.,revisit,2
+R008576,The burger was cooked to perfection.,food,2
+R000621,Overpriced for what you get.,none,2
+R008588,A superb treat.,satisfaction,2
+R002020,"Attentive, welcoming staff.",service,2
+R003689,Utterly delighted.,satisfaction,2
+R003423,My dish came out cold.,food,2
+R007420,We were seated right away.,service,2
+R006243,A rewarding evening.,satisfaction,2
+R004638,Definitely coming back next month.,revisit,2
+R008302,Everything tidy and well kept.,atmos,2
+R008447,A marvellous and memorable highlight.,satisfaction,2
+R002226,Planning another visit soon.,revisit,2
+R005263,A lackluster outing.,satisfaction,2
+R004356,Each dish bursting with flavor.,food,2
+R001962,The manager was dismissive of our complaint.,service,2
+R004354,A gratifying and comfortable occasion.,satisfaction,2
+R004807,Warned my friends to avoid it.,none,2
+R010683,Hesitant about a second visit.,revisit,2
+R005015,Never setting foot here again.,revisit,2
+R003168,"Fresh, high quality ingredients.",food,2
+R000361,Planning another visit soon.,revisit,2
+R004315,No one checked on us all night.,service,2
+R003462,Never setting foot here again.,revisit,2
+R009798,The manager was dismissive of our complaint.,service,2
+R003596,The staff ignored our table.,service,2
+R006726,A wonderful celebration.,satisfaction,2
+R007758,Mentioned it to my coworkers.,none,2
+R005431,The staff went above and beyond.,service,2
+R000053,Long line despite our reservation.,service,2
+R004503,"Fresh, high quality ingredients.",food,2
+R009109,The tacos was the best in town.,food,2
+R000530,Dirty floors and dusty surfaces.,atmos,2
+R006985,Stopped in for dinner.,none,2
+R009014,Service was painfully slow.,service,2
+R000376,The manager personally checked on us.,service,2
+R003601,No one checked on us all night.,service,2
+R001826,We waited forever just to be seated.,service,2
+R000680,An awful waste of money.,satisfaction,2
+R008879,Likely to drop by again.,revisit,2
+R003954,An unremarkable but tolerable break.,satisfaction,2
+R007872,Fast and efficient table turnover.,service,2
+R005963,Neither impressed nor bothered.,satisfaction,2
+R000756,Enthusiastically recommended it to everyone.,none,2
+R009506,Planning another visit soon.,revisit,2
+R007993,No wait at all on a busy night.,service,2
+R003862,No wait at all on a busy night.,service,2
+R002308,The table was sticky and grimy.,atmos,2
+R002508,Utterly wretched from start to finish.,satisfaction,2
+R007934,"A limited, uninspired menu.",food,2
+R001209,Doubt I would visit here.,revisit,2
+R002237,Planning another visit soon.,revisit,2
+R009012,Incredible flavor in every bite.,food,2
+R009875,Dirty floors and dusty surfaces.,atmos,2
+R004428,Grabbed lunch here.,none,2
+R010133,Well worth every dollar.,none,2
+R010616,A rewarding evening.,satisfaction,2
+R001623,Well worth every dollar.,none,2
+R008907,The burger tasted stale and reheated.,food,2
+R008410,Stopped in for dinner.,none,2
+R008546,Mentioned it to my coworkers.,none,2
+R010861,Definitely coming back next month.,revisit,2
+R005116,Service was painfully slow.,service,2
+R004772,Thoroughly regretted coming here.,satisfaction,2
+R006162,A gratifying and comfortable occasion.,satisfaction,2
+R009722,Somewhat let down.,satisfaction,2
+R006352,An awful waste of money.,satisfaction,2
+R007753,Utterly delighted.,satisfaction,2
+R002420,Our food arrived quickly.,service,2
+R002874,"A generally unclean, neglected space.",atmos,2
+R006414,The pasta was delicious.,food,2
+R006557,We waited forever just to be seated.,service,2
+R002586,Never setting foot here again.,revisit,2
+R007082,Generous and satisfying portions.,food,2
+R003449,The brisket was bland and forgettable.,food,2
+R004997,A creative and tempting menu.,food,2
+R001032,Told friends to skip this one.,none,2
+R010797,A lackluster outing.,satisfaction,2
+R005293,Dirty floors and dusty surfaces.,atmos,2
+R008354,We waited forever just to be seated.,service,2
+R004705,Knowledgeable and helpful waiter.,service,2
+R000197,Utterly wretched from start to finish.,satisfaction,2
+R009816,Far too expensive for the quality.,none,2
+R004307,A disappointing meal.,satisfaction,2
+R002847,Planning another visit soon.,revisit,2
+R004117,The table was sticky and grimy.,atmos,2
+R005746,A disappointing meal.,satisfaction,2
+R004179,Greasy and flavorless cooking.,food,2
+R000819,A forgettable and dreary occasion.,satisfaction,2
+R005010,The sushi was the best in town.,food,2
+R000564,It took forty five minutes for our food.,service,2
+R000017,Dirty floors and dusty surfaces.,atmos,2
+R000606,Long line despite our reservation.,service,2
+R002722,We were seated right away.,service,2
+R003245,Fast and efficient table turnover.,service,2
+R001405,A superb treat.,satisfaction,2
+R010817,Well worth every dollar.,none,2
+R002899,Definitely coming back next month.,revisit,2
+R001009,The restroom was filthy.,atmos,2
+R008735,Somewhat let down.,satisfaction,2
+R010632,We were seated right away.,service,2
+R008193,Each dish bursting with flavor.,food,2
+R004635,Our food arrived quickly.,service,2
+R004557,Doubt I would visit here.,revisit,2
+R009359,The dining room was spotless.,atmos,2
+R009913,Thoroughly regretted coming here.,satisfaction,2
+R002334,Steep prices for small portions.,none,2
+R000727,The dining room was spotless.,atmos,2
+R009015,A marvellous and memorable highlight.,satisfaction,2
+R003118,Utterly wretched from start to finish.,satisfaction,2
+R007388,Neither impressed nor bothered.,satisfaction,2
+R010201,Planning another visit soon.,revisit,2
+R001126,The staff went above and beyond.,service,2
+R001499,The bowl arrived overcooked and dry.,food,2
+R006719,Simply not worth the price.,none,2
+R004498,An adequate stop.,satisfaction,2
+R010551,Utterly wretched from start to finish.,satisfaction,2
+R001431,The dining room was spotless.,atmos,2
+R002506,Advised colleagues against it.,none,2
+R001772,The staff ignored our table.,service,2
+R002675,Our food arrived quickly.,service,2
+R008581,It took forty five minutes for our food.,service,2
+R000625,The manager was dismissive of our complaint.,service,2
+R003706,It took forty five minutes for our food.,service,2
+R007141,Doubt I would visit here.,revisit,2
+R002316,Dirty floors and dusty surfaces.,atmos,2
+R003697,The latte was the best in town.,food,2
+R001421,Everything tidy and well kept.,atmos,2
+R003425,Dirty floors and dusty surfaces.,atmos,2
+R004610,The table was sticky and grimy.,atmos,2
+R001882,Utterly delighted.,satisfaction,2
+R002252,Likely to drop by again.,revisit,2
+R006687,Likely to drop by again.,revisit,2
+R006814,Our server was warm and friendly.,service,2
+R003603,Tried this place for the first time.,none,2

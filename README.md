@@ -9,7 +9,8 @@ Jeong-Yeol Park, Ph.D., Rosen College of Hospitality Management, University of C
 |---|---|
 | `EMEA_CHRIE_ABSA_Workshop.ipynb` | The webinar notebook. It has already been run, so every output is visible. |
 | `data/maple_city_reviews.csv` | 11,010 restaurant reviews from Maple City, a synthetic, fictional city. Free to reuse. |
-| `data/reference_coding_150.csv` | The 150 distinct sentences in the reviews, coded by construct (aspect) and polarity. Used in Step 5. |
+| `data/reference_coding_150.csv` | The 150 distinct sentences in the reviews, hand-coded by construct (aspect) and polarity. Used in Step 5. |
+| `data/coded_samples_300.csv` | Two random samples of 300 sentences, coded by construct (AI-assisted). Round 1 built the bigram dictionary; round 2 tested it. Not needed to run the notebook. |
 | `EMEA_CHRIE_Gemini_Prompts.docx` | The prompts to type into Gemini in Colab, one per step. |
 
 ## Open the notebook in Colab
